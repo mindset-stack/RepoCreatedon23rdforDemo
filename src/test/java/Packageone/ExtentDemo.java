@@ -23,6 +23,7 @@ public class ExtentDemo {
          htmlReporter = new ExtentSparkReporter("extentreport.html");
          extent= new ExtentReports();
         extent.attachReporter(htmlReporter);
+        System.out.println("Hello");
 
     }
 
