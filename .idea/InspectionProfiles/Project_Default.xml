@@ -1,0 +1,8 @@
+<component name=" InspectionProjectProfileManager">
+    <profile version="1">
+<option name="my name" value="project defualt" />
+<inspection_tool class="JavaDocDeclaration" enabled ="true" level="Warning" enabled_by_default="true">
+<option name="ADDITIONAL_TAGS" value="Description,MethodName"/>
+</inspection_tool>
+</profile>
+</component>
