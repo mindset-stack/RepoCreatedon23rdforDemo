@@ -1,4 +1,4 @@
 package Packageone;
 
-public class Add {
+public class One {
 }
