@@ -3,7 +3,7 @@
 <suite name="Testing Demo Class">
     <test name="Regression">
         <classes>
-            <class name="Packageone.ExtentDemo"/>
+          <! --  <class name="Packageone.ExtentDemo"/> -->
 
         </classes>
     </test> <!-- Test -->
